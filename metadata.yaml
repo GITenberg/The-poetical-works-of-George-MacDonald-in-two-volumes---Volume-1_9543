@@ -1,0 +1,25 @@
+_repo: The-poetical-works-of-George-MacDonald-in-two-volumes---Volume-1_9543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scottish poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: The poetical works of George MacDonald in two volumes — Volume 1
+url: http://www.gutenberg.org/ebooks/9543
